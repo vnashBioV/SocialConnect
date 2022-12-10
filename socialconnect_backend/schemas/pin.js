@@ -38,7 +38,7 @@ export default{
         },
         {
             name:'postedBy',
-            title:'PoostedBy',
+            title:'PostedBy',
             type:'string',  
         },
         {
